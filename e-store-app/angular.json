@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-store-app"
+    }
+  },
+  "defaultProject": "e-store-app",
+  "cli": {
+    "analytics": false
+  }
 }
